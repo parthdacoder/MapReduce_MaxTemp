@@ -1,0 +1,7 @@
+Year, Station Name, Max Temperature
+1901, New York, 70°F
+1901, Los Angeles, 80°F
+1901, Chicago, 65°F
+1902, New York, 85°F
+1902, Los Angeles, 75°F
+1902, Chicago, 70°F
